@@ -1,14 +1,15 @@
 # What is Oni0nDp0?
 Oni0nD3p0 is more than just code, its a revolutionary idea of the upcomming soon to be OMCMS (Open Market Content Management System) a blockchain foccussed e-commerce project, thats comming soon!
-Weve been in development since the end of 2021, and where still relentlessly here! Tired of traditional marketplaces, want to try a piece of the future? Oni0nD3p0 is so much more than just a marketplace!, it stands for anonymity, privacy, resiliency.
+We have been in a steady and consistent development since the end of 2021, and where still going strong!
+Tired of traditional marketplaces, want to try a piece of the future? Oni0nD3p0 is so much more than just a marketplace!, it stands for anonymity, privacy, resiliency.
 
-The dream of a blockchain foccussed marketplace is comming soon, a platform supporting the future development of blockchain related projects.
+The dream of a blockchain foccussed marketplace is comming soon, a platform supporting the development of future blockchain related projects.
 
 # When will we reach beta?
 It all depends on where were at in the development stage, hopefully this year!
 
 # Want to contribute?
-We woud love an extra set of hands in the development process, we starting to open up some of our work, so take a look at any open projects and issues for starters or even message us directly on our website.
+Passionate about coding? What about looking for new projects with real world potential?, We have opened up some of our work, so take a look at any open projects and issues for starters or even message us directly on our website.
 
 > [!WARNING]
 > The following section is crutial for the project's overall well being, for more details please visit our official [website](http://nytttvdpjx552n2seus3w6y5dcboouly2zxbknai2wei3xgxql2ukrad.onion/) you will need the [tor browser](https://www.torproject.org/download/).
