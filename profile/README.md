@@ -7,6 +7,7 @@ The dream of a blockchain foccussed marketplace is comming soon, a platform supp
 
 # When will we reach beta?
 It all depends on where were at in the development stage, hopefully this year!
+For more up to date information regarding the project's development and development plan, visit our website.
 
 # Want to contribute?
 Passionate about coding? What about looking for new projects with real world potential?, We have opened up some of our work, so take a look at any open projects and issues for starters or even message us directly on our website.
