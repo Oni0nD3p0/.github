@@ -1,4 +1,4 @@
-# What is Oni0nDp0?
+# What is Oni0nD3p0?
 Oni0nD3p0 is more than just code, its a revolutionary idea of the upcomming soon to be OMCMS (Open Market Content Management System) a blockchain foccussed e-commerce project, thats comming soon!
 We have been in a steady and consistent development since the end of 2021, and where still going strong!
 Tired of traditional marketplaces, want to try a piece of the future? Oni0nD3p0 is so much more than just a marketplace!, it stands for anonymity, privacy, resiliency.
