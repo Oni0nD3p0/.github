@@ -115,8 +115,7 @@ We don't have a set launch date as of yet, we will keep you posted via our websi
 - **Lightweight** — Runs on Raspberry Pi and similar hardware
 - **Modular** — Customize every aspect to your needs
 - **Consistent** — Admin console mirrors main site structure
-- **Extensible** — Add features without breaking core functionality
-
+  
 ---
 
 <a id="-core-servers"></a>
