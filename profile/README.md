@@ -188,16 +188,6 @@ We welcome contributions from the community! As a project promoting self-hosting
 > - 🔒 Report vulnerabilities **privately** via our [contact page](http://nytttvdpjx552n2seus3w6y5dcboouly2zxbknai2wei3xgxql2ukrad.onion/contact/)
 > - 💬 Questions? Reach out through our [temp inbox](http://nytttvdpjx552n2seus3w6y5dcboouly2zxbknai2wei3xgxql2ukrad.onion/contact/) (auto-deletes after 14 days)
 
-### Ways to Get Involved
-
-| Area | Description |
-|------|-------------|
-| **💻 Code** | Build features, fix bugs, and improve performance |
-| **🎨 Design** | Create themes, improve UI/UX, and design graphics |
-| **📚 Documentation** | Improve guides, tutorials, and API documentation |
-| **🧪 Testing** | Test on different platforms, report issues, verify fixes |
-| **💬 Community** | Participate in discussions, help others, spread the word |
-
 ---
 
 <a id="support"></a>
