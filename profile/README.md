@@ -172,13 +172,8 @@ All services are accessible via TOR for maximum privacy:
 
 We welcome contributions from the community! As a project promoting self-hosting and decentralization, we encourage everyone to participate.
 
-### Contribution Workflow
-
-1. **🍴 Fork the Repository** - Create a copy of our repository on our [Gitea](http://5nr4ft67fgnxtxrzbrlzv7owytfpaqxagdiqflhowsrlhkeuqfgpdoad.onion/) instance
-2. **🌿 Create a Feature Branch** - Use a descriptive name for your changes
-3. **✍️ Commit Your Changes** - Write clear, concise commit messages
-4. **🚀 Push to Your Branch** - Upload your changes to your fork
-5. **🔍 Open a Pull Request** - Submit your changes for review
+> [!TIP]
+> **We require future contributors to use our dedicated Gitea platform** due to the nature of the project using built-in Gitea APIs and promoting self-hosting. We use GitHub to promote our efforts in creating a crypto-focused marketplace that encourages users to be part of something bigger.
 
 ### Important Guidelines
 
@@ -187,6 +182,21 @@ We welcome contributions from the community! As a project promoting self-hosting
 > - 📖 **MUST READ** our [Contributors Guide](CONTRIBUTING.md)
 > - 🔒 Report vulnerabilities **privately** via our [contact page](http://nytttvdpjx552n2seus3w6y5dcboouly2zxbknai2wei3xgxql2ukrad.onion/contact/)
 > - 💬 Questions? Reach out through our [temp inbox](http://nytttvdpjx552n2seus3w6y5dcboouly2zxbknai2wei3xgxql2ukrad.onion/contact/) (auto-deletes after 14 days)
+
+### Contribution Workflow
+
+1. **🍴 Fork the Repository** - Create a copy of our repository on our [Gitea](http://5nr4ft67fgnxtxrzbrlzv7owytfpaqxagdiqflhowsrlhkeuqfgpdoad.onion/) instance
+2. **🌿 Create a Feature Branch** - Use a descriptive name for your changes
+3. **✍️ Commit Your Changes** - Write clear, concise commit messages
+4. **🚀 Push to Your Branch** - Upload your changes to your fork
+5. **🔍 Open a Pull Request** - Submit your changes for review
+
+### 👥 Contributors
+
+- **Project Lead**: [@anonilinux](http://5nr4ft67fgnxtxrzbrlzv7owytfpaqxagdiqflhowsrlhkeuqfgpdoad.onion/anonilinux)
+- **Supporter**: [@draicor](https://github.com/draicor)
+
+See the full list of [contributors](https://5nr4ft67fgnxtxrzbrlzv7owytfpaqxagdiqflhowsrlhkeuqfgpdoad.onion/The-Oni0nD3p0-Project/projects_website/activity/contributors)
 
 ---
 
@@ -210,20 +220,6 @@ If you're looking to support us via hardware expenses or want to contribute in o
 > - We may seem dormant, but we're always working
 > - This is a passion project built in our spare time
 > - We value transparency and community input
-
----
-
-## 👥 Contributors
-
-- **Project Lead**: [@anonilinux](http://5nr4ft67fgnxtxrzbrlzv7owytfpaqxagdiqflhowsrlhkeuqfgpdoad.onion/anonilinux)
-- **Supporter**: [@draicor](https://github.com/draicor)
-
-See the full list of [contributors](https://5nr4ft67fgnxtxrzbrlzv7owytfpaqxagdiqflhowsrlhkeuqfgpdoad.onion/The-Oni0nD3p0-Project/projects_website/activity/contributors)
-
----
-
-> [!TIP]
-> **We require future contributors to use our dedicated Gitea platform** due to the nature of the project using built-in Gitea APIs and promoting self-hosting. We use GitHub to promote our efforts in creating a crypto-focused marketplace that encourages users to be part of something bigger.
 
 ---
 
