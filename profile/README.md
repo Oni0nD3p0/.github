@@ -184,7 +184,7 @@ We welcome contributions from the community! As a project promoting self-hosting
 
 > [!IMPORTANT]
 > **Before contributing:**
-> - 📖 **MUST READ** our [Contributors Guide](http://5nr4ft67fgnxtxrzbrlzv7owytfpaqxagdiqflhowsrlhkeuqfgpdoad.onion/The-Oni0nD3p0-Project/projects_website/src/branch/main/CONTRIBUTING.md)
+> - 📖 **MUST READ** our [Contributors Guide](CONTRIBUTING.md)
 > - 🔒 Report vulnerabilities **privately** via our [contact page](http://nytttvdpjx552n2seus3w6y5dcboouly2zxbknai2wei3xgxql2ukrad.onion/contact/)
 > - 💬 Questions? Reach out through our [temp inbox](http://nytttvdpjx552n2seus3w6y5dcboouly2zxbknai2wei3xgxql2ukrad.onion/contact/) (auto-deletes after 14 days)
 
