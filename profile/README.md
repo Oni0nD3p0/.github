@@ -52,11 +52,12 @@
 
 ### 🗂️ [Oni0nD3p0 aka OMCMS Project](http://5nr4ft67fgnxtxrzbrlzv7owytfpaqxagdiqflhowsrlhkeuqfgpdoad.onion/The-Oni0nD3p0-Project/Oni0nD3p0)
 
+
+This repository will be open-source after launching!
+
 **The OMCMS Platform** — Privacy-first, crypto-ready marketplace with built in content management system and scalabale/federated networking (OMCMS-Network)
 
 `PHP` `MySQL` `Bootstrap` `Gitea API` `Blockchair API` `Marketplace` `OpenPGPjs` `OMCMS`
-
-This repository will be open-source after launching!
 
 We do have a active demo instance of the projects current state.
 
