@@ -174,11 +174,11 @@ We welcome contributions from the community! As a project promoting self-hosting
 
 ### Contribution Workflow
 
-1. **Fork the Repository** - Create a copy of our repository on our Gitea instance
-2. **Create a Feature Branch** - Use a descriptive name for your changes
-3. **Commit Your Changes** - Write clear, concise commit messages
-4. **Push to Your Branch** - Upload your changes to your fork
-5. **Open a Pull Request** - Submit your changes for review
+1. **🍴 Fork the Repository** - Create a copy of our repository on our [Gitea](http://5nr4ft67fgnxtxrzbrlzv7owytfpaqxagdiqflhowsrlhkeuqfgpdoad.onion/) instance
+2. **🌿 Create a Feature Branch** - Use a descriptive name for your changes
+3. **✍️ Commit Your Changes** - Write clear, concise commit messages
+4. **🚀 Push to Your Branch** - Upload your changes to your fork
+5. **🔍 Open a Pull Request** - Submit your changes for review
 
 ### Important Guidelines
 
