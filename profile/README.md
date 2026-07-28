@@ -56,7 +56,10 @@
 
 `PHP` `MySQL` `Bootstrap` `Gitea API` `Blockchair API` `Marketplace` `OpenPGPjs` `OMCMS`
 
-This repository will be opensourced after launching!
+This repository will be open-source after launching!
+
+We do have a active demo instance of the projects current state.
+
   <a href="http://73yuwnoz7a36cdm2b6flpdkdkbimmjysmmqatyw6jeu4yy7gd6u4e3id.onion/login" style="display: inline-block; padding: 10px 20px; background-color: #2ea44f; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">🌐 OMCMS DEMO</a>
 
 </div>
